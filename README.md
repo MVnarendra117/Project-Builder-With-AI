@@ -1,4 +1,6 @@
 # DevArchitect - Project Builder
+<img width="1918" height="933" alt="image" src="https://github.com/user-attachments/assets/dad9d2f3-e62a-4217-bd81-657c443d7f76" />
+
 
 **DevArchitect** is an AI-powered platform designed to help engineering students, developers, and hobbyists bridge the gap between theoretical knowledge and real-world engineering. By generating comprehensive technical specifications, it enables users to build high-impact, portfolio-worthy applications.
 
